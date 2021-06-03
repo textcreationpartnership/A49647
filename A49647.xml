@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Last resolutions of Mounson, Mildmay, and Wallop discovered in a short meditation upon their late sentence pronounced in Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49647</idno><idno type="EEBO-CITATION">9316481</idno>
+  <idno type="VID">42719</idno>
+  <idno type="EEBO-PROQUEST">2248510174</idno>
+  
+            <idno type="STC">Wing L501A</idno>
+            <idno type="STC">ESTC R26010</idno>
+            <idno type="OCLC">09316481</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49647)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42719)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Last resolutions of Mounson, Mildmay, and Wallop discovered in a short meditation upon their late sentence pronounced in Parliament.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Davis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42719:1"/>
+            <p>THE LAST RESOLUTIONS OF <hi>Mounson, Mildmay,</hi> and <hi>Wallop:</hi> DISCOVERED IN A SHORT MEDITATION UPON Their Late Sentence PRONOUNCED IN PARLIAMENT.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Davis</hi> and are to be sold at <hi>Westminster-hall</hi> and the <hi>Royal Exchange.</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:42719:2"/>
+            <pb n="1" facs="tcp:42719:2"/>
+            <head>A DIALOGUE BETWEEN <hi>Mounson, Mildmay</hi> and <hi>Wallop.</hi>
+            </head>
+            <sp>
+               <speaker>Mildmay.</speaker>
+               <p>NOt I before God, I'le never kill my self for the matter; for here, as long as he lives, a man is sure of his life: but when a man's dead, he's sure of nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Wallop.</speaker>
+               <p>No, I pray be not so prophane as to think up<g ref="char:EOLhyphen"/>on't; alass shall we kill our selves, and go to our Graves anathematiz'd by all the holy Persons of the Gang? The Lord forbid.</p>
+            </sp>
+            <sp>
+               <speaker>Mounson.</speaker>
+               <p>How kill our selves? what wrong our own Flesh and Blood? I would not do't for a thousand worlds.</p>
+            </sp>
+            <sp>
+               <speaker>Wallop.</speaker>
+               <p>Nor I, I protest, though I am of opinion, that it is no Gospel-comfort to live miserably; for still Life's Life; and all that a man can say of a Life, without Content, is, that it is a life in <hi>Cuerpo:</hi> and that a man is put to walk to his long Home, without the Cloak of his Pleasures.</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:42719:3"/>
+               <speaker>Mildmay.</speaker>
+               <p>Why then let's live in <hi>Cuerpo;</hi> for who would not rather part with his Cloak than be hang'd.</p>
+            </sp>
+            <sp>
+               <speaker>Mounson.</speaker>
+               <p>Why 'tis well known Brother <hi>Mildmay,</hi> that Thou and I are Old Doggs at Suffering; have not I bin beaten by my Wife? and wer't not Thou beaten by a Foot<g ref="char:EOLhyphen"/>boy. Yet I endured like <hi>Cato,</hi> and Thou like any other <hi>Ro<g ref="char:EOLhyphen"/>man.</hi> Before God I had rather meet with 10000. curst Wives, than with this one plaguy Fellow, whom the Poets call <hi>grimm Death.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Wallop.</speaker>
+               <p>To tell ye the Truth Gentlemen, I have no great confidence in the other World Be there any good Parkes, and fine Houses there? for if there be but such things there, and a long Parliament to bestow um, I believe I should have my share.</p>
+            </sp>
+            <sp>
+               <speaker>Mounson.</speaker>
+               <p>There be three things that make Life happy (for in my time, I have been a Reader of Ethicks) There is your <hi>Bonum Bonum,</hi> and that's <hi>Good Drink;</hi> there's your <hi>Bonum Melius,</hi> and that's <hi>Good Meat;</hi> and there's your <hi>Bo<g ref="char:EOLhyphen"/>num Optimum,</hi> and that's <hi>Good Whores.</hi> And now I talk of Whores, (for though the sence of my Punishment be a little heavy upon my Spirit, yet you must give me leave to have a little fling at um) I'le tell ye they are conveniencies not to be despised; I have known um ever since I was a Page; for from a Page I came to be a Lord, and am now going from a Lord to a Page again. Then the Chamber-maids allur'd me, and the kind Waiting-women entic'd me, troth 'twas the merriest life that ever I lead in my life. The Devil was in me to be mounting and aspiring; for had I never aspired, I had never been troubled with these State-affairs; a Plague o' these State-affairs; had it not been for them, I had bin either <hi>Paging</hi> it, or stallyonizing or pimp<g ref="char:EOLhyphen"/>ing it to this hour. Now to make a good Pimp there doe belong three things; good Languge, good Acquaintance, and Secresie. My dear Brethren, pray mark my words; for perhaps our Suffering may beget Compassion, and Compas<g ref="char:EOLhyphen"/>sion our Liberty, and then 'twill be a good Trade: and the famous <hi>Nanna</hi> in <hi>Aretine</hi> tells the fair <hi>Pippa,</hi> that if she kept close to her instructions, that she should be (repeating
+<pb n="3" facs="tcp:42719:3"/>the word thrice) a blessed, blessed, blessed woman. I say therefore there be three things which make a Pimp, the which as I have before rehearsed them, so I leave you to make use of them according to that great discretion which I have experienced in you. As for your Whores, they have many devices; for as Milliners have in their Shops, Ri<g ref="char:EOLhyphen"/>bands, Scarfes, Gloves, Pins, Fancies, Laces, and the like; so have Whores in their Magazines, Jests, Smiles, Kisses, and Glances, and those that can sell their Ware at the best rates, and make most of their Commodities; I say in the pro<g ref="char:EOLhyphen"/>ducing, or procuring, or helping a Friend to such, shall you get great honour, and great praise, and esteem from your Friend. I'le tell ye a Story Gentlemen, 'tis true that 'tis not much to the purpose; but 'tis therefore that I tell it. A Lady lay sick of the Collick, and one time her pain so en<g ref="char:EOLhyphen"/>creased, that every body thought she would have expired, a Doctor therefore that lay in the House was presently cal<g ref="char:EOLhyphen"/>led, twas late in the night, and the Doctor had a custome to lye without his shirt, wherefore being har'd cut of his sleep, he onely throws a short Cloak of his Boys about his Shoulders, and comes down, the Cloak reached not down to his Navel, so that the Company began to turn their La<g ref="char:EOLhyphen"/>mentations into Laughter when they beheld him; when he drew near the bed, the same Vision which had made the Company so merry, appeared likewise to the sick Lady, who seeing it, fell into as great a laughter as the rest, the force whereof opened her Posteriors so, that she farted, and was cured. Whereupon she cryes to the Doctor, you may C<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er your Toole now Sir, for I am pretty well. You see what 'tis to have a good Toole. A good Toole cures many Diseases, but it will not cure our Disease. For now me thinks I feel the Rope twitching me again to the re-consi<g ref="char:EOLhyphen"/>deration of our Afflictions. Let me see, where were we? we were, I think, upon the discovery of another World; or more particularly of that which is call'd <hi>the Other World;</hi> for if there be another world, it would be well for us to get Thither before we be put to too much shame in This.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:42719:4"/>
+               <speaker>Wallop.</speaker>
+               <p>The other world! what is the other world?</p>
+            </sp>
+            <sp>
+               <speaker>Mounson.</speaker>
+               <p>Nay I know no more what the other world is, or where it is, no more then the Great Turk.</p>
+            </sp>
+            <sp>
+               <speaker>Mildmay.</speaker>
+               <p>Let us then leave the Consideration thereof, to the Consideration of the Grave Divines, for my part I have nothing to say to the other world, neither do I desire that that may have any thing to say to me. 'Tis this world that troubles me.</p>
+            </sp>
+            <sp>
+               <speaker>Wallop.</speaker>
+               <p>I must loose my Gentility, but I shall have my life! Yes! why then farewell Gentility.</p>
+            </sp>
+            <sp>
+               <speaker>Mounson.</speaker>
+               <p>And I must loose my Lordship: Why Lordship, I'le tell thee, rather then loose my life, I'le part with thee as willingly as a man parts with a scoulding wife.</p>
+            </sp>
+            <sp>
+               <speaker>Mildmay.</speaker>
+               <p>And I must loose my Knighthood. Oh good <hi>Sir Knighthood</hi> farewell to thee, I say again to thee, God buy, nay I say again to thee, farewell and be hang'd, that's twice God buy.</p>
+            </sp>
+            <sp>
+               <speaker>Wallop.</speaker>
+               <p>For what is Gentility?</p>
+            </sp>
+            <sp>
+               <speaker>Mounson.</speaker>
+               <p>Why 'tis a badge, or as some adde, a badge of Honour.</p>
+            </sp>
+            <sp>
+               <speaker>Wallop.</speaker>
+               <p>Nay an't be but a badge, let it walk; let Porters and Water-men wear badges, I'le wear none.</p>
+            </sp>
+            <sp>
+               <speaker>Mildmay.</speaker>
+               <p>What's a Knighthood?</p>
+            </sp>
+            <sp>
+               <speaker>Wallop.</speaker>
+               <p>A thing to make women proud with all.</p>
+            </sp>
+            <sp>
+               <speaker>Mildmay.</speaker>
+               <p>Then 'tis not to be worn any longer. Women are proud enough of themselves.</p>
+            </sp>
+            <sp>
+               <speaker>Wallop.</speaker>
+               <p>Nor is this all, Knighthoods do but run men in<g ref="char:EOLhyphen"/>to continual Dangers and Hazzards, as for example; Theres your Knight of <hi>Malta,</hi> who must be alwaies fighting against the Turk: And theres your Knight of the <hi>Bath,</hi> who is al<g ref="char:EOLhyphen"/>waies bound to be Hazzarding his life for distressed Virgins and Widdows forsooth.</p>
+            </sp>
+            <sp>
+               <speaker>Mildmay.</speaker>
+               <p>To what purpose then should I keep my Knighthood, for I intend not to hazzard my life upon any of these foolish scores.</p>
+            </sp>
+            <sp>
+               <speaker>Mounson.</speaker>
+               <p>What's a Lordship?</p>
+            </sp>
+            <sp>
+               <speaker>Wallop.</speaker>
+               <p>A title of Honour.</p>
+            </sp>
+            <sp>
+               <speaker>Mounson.</speaker>
+               <p>A title of a Fart: let um take it, let um take it.
+<pb n="5" facs="tcp:42719:4"/>I am clearly of Sir <hi>John Falstaffs</hi> mind. Let Honour go to the Dogs, one cup of Sack is better then all the Honour in the World.</p>
+            </sp>
+            <sp>
+               <speaker>Wallop.</speaker>
+               <p>They talk of shame.</p>
+            </sp>
+            <sp>
+               <speaker>Mildmay.</speaker>
+               <p>What is shame?</p>
+            </sp>
+            <sp>
+               <speaker>Wallop.</speaker>
+               <p>Why shame, a word consisting of five letters, as many other words do, but 'twill neither bite, nor stab, nor drown a man.</p>
+            </sp>
+            <sp>
+               <speaker>Mounson.</speaker>
+               <p>Why should we be more afraid of shame, then every piss-taile girle that is whipt a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Carts aise, 'tis no Hobgoblin, is it?</p>
+            </sp>
+            <sp>
+               <speaker>Wallop.</speaker>
+               <p>No, 'tis no Hobgoblin, 'tis only a word as I told you before.</p>
+            </sp>
+            <sp>
+               <speaker>Mounson.</speaker>
+               <p>Why then let shame kiss my back-side.</p>
+            </sp>
+            <sp>
+               <speaker>Mildmay.</speaker>
+               <p>As for wearing Ropes about our necks, I have heard of a King that had a halter about his neck, yea the great King of the <hi>Assyrians,</hi> and that's my comfort.</p>
+            </sp>
+            <sp>
+               <speaker>Wallop.</speaker>
+               <p>Come let's shake hands, we are like to be fellow Collegiates a good while.</p>
+            </sp>
+            <sp>
+               <speaker>Mildmay.</speaker>
+               <p>There be seven dayes in a Week, and fifty two Weeks in a year; what of that, cann't we live merrily for all this? There is Monday.</p>
+            </sp>
+            <sp>
+               <speaker>Mounson.</speaker>
+               <p>Monday you say, why let Monday be set apart for playing at Tick-tack, with seven yards of plum pud<g ref="char:EOLhyphen"/>ding for dinner, and black-pots of ale 3. dosen <hi>per</hi> man. Tuesday shall be for telling of tales till 5. a Clock in the af<g ref="char:EOLhyphen"/>ternoon: after that, Wenches. Wednesday for studying Necromancy: after that, Carnal recreation again, and so go drunk to bed. Thursday for receiving our Wives Let<g ref="char:EOLhyphen"/>ters, and Answering them, then play at span-farthing as long as we can see, after that, sing old Rose. Friday to laugh at our Creditors, repeat our severall Tricks and Cheats, to praise those that did best, with a Bushell of but<g ref="char:EOLhyphen"/>ter'd Apple-pie for supper. Saturday for inditing a History of <hi>Japann,</hi> and writing the memorials of the Emperor of <hi>Greenland,</hi> a work which was never yet undertaken by any body, and will be of very great consequence to those that Whoring all the day long day for Drinking, Wenching and</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:42719:5"/>
+               <speaker>Wallop.</speaker>
+               <p>Truly I confesse your Design is most important, and the structure of the contrivance is rais'd upon a very strong foundation.</p>
+            </sp>
+            <sp>
+               <speaker>Mounson.</speaker>
+               <p>Truly for my part, I follow the instruction of a very Learned man, I mean the great <hi>Pseudo-Evangelicopa<g ref="char:EOLhyphen"/>pistotanabaptistiojesuitanorbiterondepuritanus,</hi> who is said to have the best invention of any man in the world, and is re<g ref="char:EOLhyphen"/>ported to have found out, after great labour, who was the Mother of <hi>Garagantua.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Wallop.</speaker>
+               <p>Upon the advice of so good an Author as he, certainly we cannot go amiss; but because the setting up of a new Society requires the making of new Lawes, and new Officers, and greater number of Associates. 'Tis best that we stay for more company, which I hear will be ere long sent to us, and so leave the further consideration of the whole to our next Meeting.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>AN ADVERTISEMENT.</head>
+            <p>There is lately Published <hi>Manes Presbyteriani,</hi> or <hi>The Monuments of the Kirk,</hi> sold by most Book-sellers.</p>
+            <pb facs="tcp:42719:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
